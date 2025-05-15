@@ -1,2 +1,2 @@
 # dala_visualizing
-desafios do livro puthon crash course
+desafios do livro python crash course
